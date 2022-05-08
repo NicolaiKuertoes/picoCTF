@@ -1,5 +1,5 @@
 # Obedient Cat [5 points]
-##### Category: General Skills
+### Category: General Skills
 ### Author: SYREAL
 
 ## Description
