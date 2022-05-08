@@ -11,7 +11,7 @@ Python scripts are invoked kind of like programs in the Terminal... Can you run 
 2. `$ man python`
 
 # Solution
-Running a Python script is simple - just type `python` or `python3` (depending on the Python version you installed) followed by the <python_file_name>.py file you want to run, right in your terminal.
+Running a Python script is simple - just type `python` or `python3` (depending on the Python version you've installed) followed by the <python_file_name>.py file you want to run, right in your terminal.
 ```bash
 $ python3 ./ende.py
 Usage: ende.py (-e/-d) [file]
