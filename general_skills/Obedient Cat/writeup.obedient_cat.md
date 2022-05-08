@@ -12,7 +12,7 @@ This file has a flag in plain sight (aka "in-the-clear").
 
 # Solution
 Everytime I get a file, I first take a look at the file-type of that file using the `file` command:
-```
+```bash
 $ file ./flag
 flag: ASCII text
 ```
