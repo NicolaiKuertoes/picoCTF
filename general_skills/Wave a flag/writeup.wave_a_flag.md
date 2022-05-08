@@ -32,7 +32,7 @@ $ strings ./warm
 .debug_str
 ```
 This prints us every readable string the program contains.
-Note: We are not seeing any flag... and scrolling through the output is a pain in the ***. So we try to `grep`for it.
+Note: We are not seeing any flag... and scrolling through the output is a pain in the ***. So we try to `grep` for it.
 ```bash
 $ strings ./warm | grep -o "picoCTF{.*}"
 picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
