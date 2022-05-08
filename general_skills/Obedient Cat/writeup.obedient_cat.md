@@ -20,3 +20,5 @@ ASCII text is actually readable. So let's have a look at what the file contains 
 $ cat ./flag
 picoCTF{s4n1ty_v3r1f13d_2aa22101}
 ```
+That was easy!
+#### Flag: `picoCTF{s4n1ty_v3r1f13d_2aa22101}`
