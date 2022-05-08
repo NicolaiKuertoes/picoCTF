@@ -11,11 +11,12 @@ This file has a flag in plain sight (aka "in-the-clear").
 3. `$ man cat`
 
 # Solution
-Everytime I get a file, I first take a look at the meta-data of that file:
-`$ file ./flag`
-Gives us:
-`flag: ASCII text`
-ASCII text is actually readable. So let's have a look at what the file contains using the `cat` command in our terminal:
+Everytime I get a file, I first take a look at the file-type of that file using the `file` command:
+```
+$ file ./flag
+flag: ASCII text
+```
+Great! ASCII text is actually readable. So let's have a look at what the file contains using the `cat` command in our terminal:
 ```bash
 $ cat ./flag
 picoCTF{s4n1ty_v3r1f13d_2aa22101}
