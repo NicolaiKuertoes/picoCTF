@@ -37,6 +37,6 @@ Note: We are not seeing any flag... and scrolling through the output is a pain i
 $ strings ./warm | grep -o "picoCTF{.*}"
 picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
 ```
-And that was non-intentional solution I guess...
+And that was a non-intentional solution, I guess...
 
 #### Flag: `picoCTF{b1scu1ts_4nd_gr4vy_30e77291}`
