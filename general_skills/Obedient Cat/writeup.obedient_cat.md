@@ -1,6 +1,6 @@
 # Obedient Cat [5 points]
-### Category: General Skills
-### Author: SYREAL
+#### Category: General Skills
+#### Author: SYREAL
 
 ## Description
 This file has a flag in plain sight (aka "in-the-clear").
